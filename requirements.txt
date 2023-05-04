@@ -1,9 +1,11 @@
 numpy
 pandas
-matplotlib
 seaborn
-plotly
+pingouin
+matplotlib
 statsmodels
 scikit-learn
+plotly
+xgboost
 streamlit
 streamlit-option-menu
